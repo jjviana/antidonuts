@@ -1,0 +1,1 @@
+int setupSleepWatcher(int idleTimeout);
