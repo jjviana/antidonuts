@@ -10,11 +10,11 @@ looking at the computer. If it cannot detect a face it will immediately put the 
 
 1. Install Go
 2. Install Homebrew
-3. Install GoCV package: go get -u -d gocv.io/x/gocv
-4. Install OpenCV: brew install opencv
-5. Install PkgConfig: brew install pkgconfig
-6. Clone this repository: git clone https://github.com/jjviana/antidonuts.git
-7. Build: cd antidonuts; go build .
-8. Run: ./antidonuts --help
+3. Install GoCV package: `go get -u -d gocv.io/x/gocv`
+4. Install OpenCV: `brew install opencv`
+5. Install PkgConfig: `brew install pkgconfig`
+6. Clone this repository: `git clone https://github.com/jjviana/antidonuts.git`
+7. Build: `cd antidonuts; go build .`
+8. Run: `./antidonuts --help`
 
 
